@@ -1,0 +1,19 @@
+{
+	"author":"Epic Treestick",
+	"name":"Blockchain_Builder",
+	"version":"0.1.0",
+	"description":"A simple blockchain implementation in JavaScript.",
+	"main":"censorshipSucks",
+	"repository": {
+		"type":"git",
+		//"url": ""
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],
+	"dependencies":{},
+	"engine": {
+		"node":"*"
+	}
+}
